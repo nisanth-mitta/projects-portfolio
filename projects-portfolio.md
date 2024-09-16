@@ -68,3 +68,7 @@ An ML solution predicting patient conversion likelihood from trial phase for a c
 • Explored chatbot development using Azure Bot Framework and Salesforce Einstein  
 • Prepared a robotic arm which plays Rock, paper and scissors using flex sensors. The class is determined with the help of classification algorithms from the sensor data  
 • Worked on BI spark migration project for a client  
+
+**ARM Embedded Technologies | Python**  
+• Built utility to generate random configuration files, developed macros and optimised compilation processes for Aegis tool  
+• Developed utilities to generate random configuration files, to convert a failed Pinaka test case into a standalone test application and run fast model to get the reference values, and enhanced the ISA coverage for Pinaka tool  
