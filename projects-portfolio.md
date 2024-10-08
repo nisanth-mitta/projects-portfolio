@@ -1,16 +1,15 @@
 **SEQUOIA TPI - PEOPLE MANAGEMENT APPLICATION | Python, Airflow, MongoDB, Meltano**  
 A people management application which provides dashboards and analytics for People Management activities such as Hiring, Training, Payroll processing, Performance management, etc.  
-• Worked with business team to understand common data model requirements and built it  
-• Implemented ingestion pipelines in Airflow using meltano from more than 15 data sources  
-• Developed Workforce Analytics data model  
-• Developed encryption and decryption of data from multiple components and streamlined the process for various business cases within the application’s environments and pipelines  
-• Developed employee history generation and data retention  
-• Designed Airflow DAGs for daily and realtime Data ingestion activities, Workforce Analytics generation, and Employee History generation data flows with Multi-Tenant Architecture  
+• Collaborated with business team to understand common data model requirements and built a scalable workforce analytics data model for efficient data processing and analysis  
+• Implemented ingestion pipelines in Airflow using meltano, successfully integrating data from more than 15 diverse sources into a unified data model, ensuring seamless data flow and improving overall system performance  
+• Developed robust encryption and decryption mechanisms to secure data across multiple components, streamlining the process to meet various business case requirements within the application's environment and AWS S3 pipelines, ensuring data security and compliance  
+• Designed and implemented solutions for employee history generation and data retention, enabling accurate tracking of employee records and compliance with organizational data retention policies  
+• Created and optimized Airflow DAGs (Directed Acyclic Graphs) for daily and real-time data ingestion activities, workforce analytics generation, and employee history data flows, incorporating a multi-tenant architecture to support scalability and improve performance across different business units  
 
 **CENTAURI INSURANCE - ADVANCED MEDICAL RECORD REVIEW | Python, Natural Language Processing, Machine Learning**  
 A Computer Assisted Coding (CAC) application to enhance Medical Coders’ productivity by streamlining document review and coding, thereby minimizing manual errors.  
-• Extracted textual data from medical charts using OCR Tesseract 4, performed auto spell correction (medical and EHR docs) and enhanced output by performing relevant image-pre-processing techniques  
-• Handled negative sentiments in the text using negation detection algorithms and added modules to preprocess text and built vocabulary master list given text documents  
+• Extracted and processed textual data from EHR (Electronic Health Record) charts using OCR Tesseract 4, implementing image-preprocessing techniques such as noise reduction and contrast enhancement to improve the accuracy of text extraction and auto spell correction algorithms to further refine the output  
+• Handled negative sentiments in the text using negation detection algorithms and added modules to preprocess text and built vocabulary masterlist given text documents  
 • Developed solution to extract and verify personal information such as name and DOB from the documents  
 • Implemented a rule-based solution to parse hierarchical ICD XML file and assign codes based on text matches  
 • Developed a Label Attentional Network (Attention based LLM Model) for retrieving disease conditions and classified them to relevant medical codes  
