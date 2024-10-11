@@ -30,7 +30,7 @@ An application that categorizes and tags emails based on content before reaching
 • Developed solution to highlight the section of the content responsible to be given a specific tag, reducing the task of going through the entire content.  
 • Worked with Sklearn, numpy and Topic Modelling.  
 
-**INOVALON - MEDICAL RECORD REVIEW | Python, Natural Language Processing, Machine Learning**  
+**INOVALON - MEDICAL RECORD REVIEW | Python, Natural Language Processing, Machine Learning (Pivotal Cloud Foundry, nltk, sklearn, numpy and pandas)**  
 A Computer Assisted Coding (CAC) application to help medical coders reduce the amount of time spent on reviewing and coding documents. Application assisted the coders and increased the accuracy of the coding process.  
 • Played pivotal role in identifying the use case, designing architecture and developing the solution.  
 • Worked with various stakeholders to understand the manual coding process and gathering intelligence.  
@@ -38,7 +38,6 @@ A Computer Assisted Coding (CAC) application to help medical coders reduce the a
 • Created ML models for identifying ICD/HCC/CPT medical codes from unstructured text.  
 • Developed predictive models that identify medical sections like lab reports and financial reports.  
 • Worked on exposing internal business logic as APIs using API Gateways. The business logic is uploaded and run on PCF.  
-• Worked with NLTK, Sklearn, numpy, Pytorch and Pivotal Cloud Foundry.  
 
 **XIAOMI - CHATBOT | .net, Google Dialogflow, Python**  
 Chatbot to help the user place, track, return or cancel orders from the chat and to answer user queries related to logistics and other device recommendations.  
@@ -52,14 +51,13 @@ A solution to predict the failure of machines in the manufacturing industry to r
 • Performed feature engineering to create new features that added value to the solution.  
 • Developed predictive models that predict failure of machine components for different time frames.  
 
-**PREDICTION OF PATIENT CONVERSION | Python, Machine Learning**  
+**PREDICTION OF PATIENT CONVERSION | Python, Machine Learning (sklearn, numpy and pandas)**  
 An ML solution predicting patient conversion likelihood from trial phase for a client’s medical implant product.  
 • Performed Exploratory Data Analysis to get insights from the datasets.  
 • Created workflows for cleaning and pre-processing the datasets.  
 • Performed feature engineering and derived new features that added value to the final solution.  
 • Analysed the final model using ML interpretation techniques to assess quality.  
 • Designed the end to end process, from data exploration to model fine-tuning.  
-• Worked with Sklearn, numpy and Pytorch.  
 
 **OTHER ENGAGEMENTS**  
 • Developed application for invoice extraction using third party tools.  
